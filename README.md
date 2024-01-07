@@ -1,6 +1,6 @@
 # My-Paypal
 
-### Project
+### Project Overview
 This project delves into the realm of machine learning to develop and compare two powerful models for fraud detection: Logistic Regression and Neural Network. By leveraging a dataset containing credit card transactions, I aim to create models that can accurately distinguish between legitimate and fraudulent activities.
 
 ### Data source
